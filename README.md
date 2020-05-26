@@ -1,6 +1,4 @@
 # 31P-MRS-CSI
-Matlab code for 3-1P MRS and CSI
-
 Analysis for 31-P muscle exercise MRS and cardiac CSI.
 
 Refer to the PDF user manuals in each sub-folder - these are definitive.
